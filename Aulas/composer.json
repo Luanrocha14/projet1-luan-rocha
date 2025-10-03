@@ -1,0 +1,12 @@
+{
+    "name": "luan/phpoo-101",
+    "authors":[
+        {
+            "name": "Luan Rocha",
+            "email": "luanrocha@gmail.com"
+        }
+    ],
+    "require":{
+        "symfony/var-dumper": "^7.3"
+    }
+}
